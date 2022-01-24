@@ -1,7 +1,7 @@
 
 # Cloud Services
 
-I created the project as an assignment on the first semester of my second year at BIU as part of Communication Networks course. This project was coded using a single thread in Python on top of TCP protocol. The service supports both **Linux** and **Windows**.
+I created the project as an assignment on the first semester of my second year at BIU as part of Computer Networks course. This project was coded using a single thread in Python on top of TCP protocol. The service supports both **Linux** and **Windows**.
 
 - Cloud files backup services usually offer customers the option to download client software to the computer which allows them to select a folder on the computer and synchronize it automatically with the server at any change and between different computers.
 - When the software is run and a folder is set up from the computer, the software uploads to the server all the files in the folder for backup and from now on the software monitors any change that takes place in the folder deeply. When such a change is detected, the software updates the server about the change so that the backup on the server will be updated accordingly.
